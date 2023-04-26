@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mycompany-scenery-simple/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132447961660000000
+    },
+    {
+      "path": "scenery/jejuairport.bgl",
+      "size": 32512,
+      "date": 132552063188552579
+    },
+    {
+      "path": "scenery/mycompany/modelLib.BGL",
+      "size": 20852450,
+      "date": 132552087627698674
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/DEFAULTMATERIAL_FS2020.PNG.DDS",
+      "size": 11184952,
+      "date": 132550263222325633
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/DEFAULTMATERIAL_FS2020.PNG.DDS.json",
+      "size": 102,
+      "date": 132550263222166060
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/DEFAULTMATERIAL_FS20202.PNG.DDS",
+      "size": 11184952,
+      "date": 132551827097848331
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/DEFAULTMATERIAL_FS20202.PNG.DDS.json",
+      "size": 102,
+      "date": 132551827097758575
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FLOOR_TILES_02_DIFF_2K.PNG.DDS",
+      "size": 2796344,
+      "date": 132549878234614406
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FLOOR_TILES_02_DIFF_2K.PNG.DDS.json",
+      "size": 102,
+      "date": 132549878234559472
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MARBLE_01_DIFF_2K.PNG.DDS",
+      "size": 2796344,
+      "date": 132549878231240417
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MARBLE_01_DIFF_2K.PNG.DDS.json",
+      "size": 102,
+      "date": 132549878231190552
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/RED_BRICK_03_DIFF_2K.PNG.DDS",
+      "size": 2796344,
+      "date": 132550952634392222
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/RED_BRICK_03_DIFF_2K.PNG.DDS.json",
+      "size": 102,
+      "date": 132550952634342357
+    }
+  ]
+}
